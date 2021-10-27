@@ -1,0 +1,5 @@
+body {
+  background-image: linear-gradient(rgba(36, 36, 37, 0.75),rgba(36,36,37,0.75)), url(./assets/img/fondo.jpg);
+  background-size: 100%;
+}
+
